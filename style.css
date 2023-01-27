@@ -1,0 +1,43 @@
+.heading-top{
+    background-color: aqua;
+    text-align: center;
+
+}
+
+.input-mass{
+    color: wheat;
+    background-color: rgb(25, 48, 81);
+    text-align: center;
+    padding-bottom: 10px;
+}
+.input-height{
+    color: rgb(19, 15, 6);
+    background-color: rgb(140, 184, 245);
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+.input-field{
+    border-radius: 25cm;
+}
+
+.button{
+    margin-top: 25px;
+    text-align: center;
+}
+
+.button-style{
+    font-size: 20px;
+    color: antiquewhite;
+    background-color: black;
+}
+
+.button-style:hover{
+    color: blue;
+    background-color: azure;
+        
+}
+.img{
+    display: flex;
+    justify-content: center;
+}
